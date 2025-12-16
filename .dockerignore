@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+.env
+.vscode
+.idea
+.DS_Store
+venv/
+env/
+*.log
+logs/
+tests/
+README.md
+.pytest_cache
